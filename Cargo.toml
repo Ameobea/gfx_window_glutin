@@ -34,4 +34,4 @@ git = "https://github.com/gfx-rs/gfx_device_gl"
 #version = "*"
 
 [dependencies.glutin]
-git = "https://github.com/tomaka/glutin"
+git = "https://github.com/jTitor/glutin"
